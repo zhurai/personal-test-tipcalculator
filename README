@@ -1,0 +1,16 @@
+Tip Calculator
+Unity Project
+v. 1.0
+
+=========================
+
+This is mainly a test for myself of how to use NGUI+Android Export.
+This is also to set up a workflow in general for Unity for myself.
+(Obviously this requires NGUI, Unity3d free, really...)
+
+=========================
+
+To use this you can open the project in Unity, and then import NGUI, and it should work (at least it did for me).
+
+
+
